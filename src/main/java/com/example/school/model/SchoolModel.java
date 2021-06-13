@@ -5,7 +5,7 @@ import lombok.Data;
 
 @Data
 @AllArgsConstructor
-public class School {
+public class SchoolModel {
 	private Integer id;
 	private String name;
 	private String city;
