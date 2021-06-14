@@ -39,7 +39,7 @@ run as Java application. Specify the path of ide .exe file location of IDE (C:\U
  			- db.myNewCollection.insert({"name":"Chandraveer"}) (creates a collection with name myNewCollection and inserts a value into the collection)
  			
  7. Download and install Studio 3T which is similar to SQLWorkbench. Provides UI for running MongoDB queries.
- 	- Open Studio3T, click on connect you can see port number 27017 is running and give the name as it is local give name as local and connect.
+ 	- Open Studio3T, click on connect, you can see port number 27017 is running and give the name as it is local give name as local and connect.
  	- It will create a connection and can see all the databases.
  	- Sample Queries from MongoDB
  	db -> refers current database
